@@ -35,16 +35,15 @@ const Contact: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
           {/* LEFT */}
           <div>
-            <h2 className="text-[#D4AF37] text-sm font-bold tracking-[0.5em] uppercase mb-2">
+            <h2 className="text-white text-sm font-bold tracking-[0.5em] uppercase mb-2">
               Connect
             </h2>
             <h3 className="text-5xl text-[#D4AF37] font-serif mb-8 leading-tight">
-              Ready for the <br /> Next Architecture?
+              Let’s Build the Next <br /> Scalable System Together.
             </h3>
 
             <p className="text-gray-400 mb-12 text-lg leading-relaxed">
-              I'm always open to discussing Cloud migrations, DevOps strategies,
-              or Fullstack projects. Let's build something scalable together.
+              I’m open to cloud engineering, DevOps, and full-stack roles where I can design, automate, and scale real-world systems. Let’s work together to build reliable infrastructure and impactful products.
             </p>
 
             {/* EMAIL */}
