@@ -1,9 +1,12 @@
 import React from "react";
-import { EXPERIENCE } from "../constants";
+import { EXPERIENCE } from "../../../../OneDrive/Desktop/portfolio/src/constants";
 
 const Experience: React.FC = () => {
   return (
-    <section id="experience" className="py-24 px-6 scroll-mt-20 overflow-x-hidden">
+    <section
+      id="experience"
+      className="py-24 px-6 scroll-mt-20 overflow-x-hidden"
+    >
       <div className="max-w-7xl mx-auto">
         <div className="mb-16 text-center">
           <h2 className="text-[#D4AF37] text-sm font-bold tracking-[0.5em] uppercase mb-2">
