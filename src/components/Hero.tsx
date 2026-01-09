@@ -23,13 +23,13 @@ const Hero: React.FC = () => {
           <div className="flex space-x-6">
             <a
               href="#skills"
-              className="px-8 py-4 bg-[#D4AF37] text-white font-bold rounded-sm hover:opacity-90 transition-opacity"
+              className="px-5 py-4 bg-[#D4AF37] text-white font-bold rounded-sm hover:opacity-90 transition-opacity"
             >
               View My Tech Stack
             </a>
             <a
               href="#experience"
-              className="px-8 py-4 border border-white text-white font-bold rounded-sm hover:bg-white hover:text-[#00302E] transition-all"
+              className="px-5 py-4 border border-white text-white font-bold rounded-sm hover:bg-white hover:text-[#00302E] transition-all"
             >
               My Journey
             </a>
