@@ -1,5 +1,5 @@
 import React from "react";
-import { EXPERIENCE } from "../../../../OneDrive/Desktop/portfolio/src/constants";
+import { EXPERIENCE } from '../constants';
 
 const Experience: React.FC = () => {
   return (

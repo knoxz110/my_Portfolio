@@ -1,5 +1,5 @@
 import React from "react";
-import { SKILLS } from "../../../../OneDrive/Desktop/portfolio/src/constants";
+import { SKILLS } from "../constants";
 
 const SkillBar: React.FC<{
   name: string;
